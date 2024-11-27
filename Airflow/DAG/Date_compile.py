@@ -64,7 +64,7 @@ with DAG(
     schedule_interval=None,
     start_date=datetime(2024, 1, 1),
     catchup=False
-) as dag:
+) as dag: 
 
     # Задача 1: Извлечение дат из базы данных
     extract_dates_task = PythonOperator(
