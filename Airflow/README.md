@@ -37,8 +37,7 @@ DAG — это набор связанных задач, определяющи�
   - Позволяет создавать собственные Executors.
 
 ---
-(https://github.com/NikGerasimovich/Data-engineering/blob/main/Airflow/IMAGE/arch-diag-basic.png)
-<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Airflow/IMAGE/arch-diag-basic.png" alt="Описание изображения">
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Airflow/IMAGE/arch-diag-basic.png" alt="Архитектура Airflow">
 ## Worker (Воркеры)
 **Worker** — компонент, который выполняет задачи, отправленные ему Executor-ом.
 
