@@ -33,11 +33,12 @@ DAG — это набор связанных задач, определяющи�
 - **KubernetesExecutor**
   - Запускает каждую задачу в отдельном Kubernetes-поде;
   - Подходит для облачных и контейнеризированных сред.
-- **CustomExecutor**
+- **CustomExecutor**Airflow/IMAGE/arch-diag-basic.png
   - Позволяет создавать собственные Executors.
 
 ---
-
+(Airflow/IMAGE/arch-diag-basic.png)
+(https://github.com/NikGerasimovich/Data-engineering/blob/main/Airflow/IMAGE/arch-diag-basic.png)
 ## Worker (Воркеры)
 **Worker** — компонент, который выполняет задачи, отправленные ему Executor-ом.
 
