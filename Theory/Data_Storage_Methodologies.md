@@ -2,6 +2,7 @@
 # Data Lake & DWH
 
 ## Data Lake (озеро данных)
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Theory/IMAGE/Data-Lake-Architecture.png" alt="Data lake">
 
 ### Что это?
 Хранилище данных, которое позволяет сохранять данные в их изначальном или почти изначальном виде, независимо от структуры.
@@ -24,6 +25,8 @@
 ---
 
 ## Data Warehouse (DWH, хранилище данных)
+
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Theory/IMAGE/DWH-architecture.jpg" alt="dwh">
 
 ### Что это?
 Централизованное хранилище структурированных данных, оптимизированное для аналитических запросов.
@@ -97,6 +100,8 @@
 ---
 
 # Schema-on-Read и Schema-on-Write
+
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Theory/IMAGE/schema_read_write.png" alt="read_wrire">
 
 ## Schema-on-Read
 **Описание:** Схема данных определяется при чтении или обработке.
@@ -188,6 +193,8 @@
 ---
 
 ## ETL и ELT
+
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Theory/IMAGE/etlelt.png" alt="etl_elt">
 
 ### ETL (Extract, Transform, Load)
 ETL — это традиционный процесс обработки данных, включающий три этапа:
@@ -299,6 +306,8 @@ ELT — это подход, при котором данные загружаю
 - Сложность запросов: Требуется больше соединений (joins), что может снижать производительность.
 - Сложнее для восприятия и использования.
 
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Theory/IMAGE/Snowflake%20Schemas%20vs%20Star%20Schemas.png" alt="star_snowflake">
+
 ---
 
 ### Data Vault
@@ -325,6 +334,8 @@ Data Vault — это современный подход к построени�
 - Сложность: Требует значительных усилий для построения и управления.
 - Производительность: Для аналитики требуется много соединений (joins).
 - Высокие начальные затраты: Инженерное время и ресурсы.
+
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Theory/IMAGE/data_vault.png" alt="data_vault">
 
 ---
 
