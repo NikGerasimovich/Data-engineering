@@ -48,7 +48,7 @@ DAG — это набор связанных задач, определяющи�
 
 ---
 
-(https://airflow.apache.org/docs/apache-airflow/2.0.1/_images/arch-diag-basic.png)
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fairflow.apache.org%2Fdocs%2Fapache-airflow%2F2.0.1%2Fconcepts.html&psig=AOvVaw25W_ABpC83g4D6NSSZoKr2&ust=1733228764602000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNih3LiKiYoDFQAAAAAdAAAAABAT)
 
 ## Operator (Оператор)
 **Operator** — сущность, на основании которой создаются экземпляры заданий. Она описывает, что будет происходить во время исполнения.
