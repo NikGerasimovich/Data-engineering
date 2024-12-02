@@ -26,7 +26,7 @@
 - **Сложность**: Требуется дублировать код для Speed и Batch слоёв, что затрудняет поддержку.
 - **Задержка**: Хотя Speed Layer даёт результаты быстро, корректные данные появляются только после обработки в Batch Layer.
 - **Высокие затраты**: Нужны отдельные ресурсы для каждого слоя.
-<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Theory/IMAGE/kappa.webp alt="kappa">
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Theory/IMAGE/kappa.webp" alt="kappa">
 ---
 
 ## 2. Kappa Architecture
