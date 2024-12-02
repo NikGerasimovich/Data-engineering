@@ -1,4 +1,3 @@
-```markdown
 # Data Lake & DWH
 
 ## Data Lake (озеро данных)
