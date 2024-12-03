@@ -2,6 +2,9 @@
 
 Hadoop — это фреймворк для распределенной обработки больших данных (Big Data), который работает на кластерах серверов. Он основан на парадигме MapReduce и предназначен для масштабирования от одного сервера до тысяч узлов, где каждый узел выполняет хранение и вычисления.
 
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Hadoop/IMAGE/Hadoop-Ecosystem.webp" alt="Hadoop">
+
+
 ## Основные компоненты Hadoop
 
 ### 1. HDFS (Hadoop Distributed File System)
@@ -89,6 +92,9 @@ MapReduce — это программная модель обработки да
 
 HDFS — это распределённая файловая система, которая является основой Hadoop. Она разработана для хранения огромных объёмов данных и обеспечения быстрого доступа к этим данным на кластере серверов.
 
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Hadoop/IMAGE/HDFS.png" alt="HDFS">
+
+
 ## Основные характеристики HDFS
 
 ### Разделение данных на блоки (Block Storage)
@@ -166,6 +172,9 @@ HDFS оптимизирован для последовательного чте
 # Apache Hadoop YARN (Yet Another Resource Negotiator)
 
 YARN — это система управления ресурсами и выполнения задач в экосистеме Hadoop. Она позволяет различным приложениям использовать общий кластер Hadoop, эффективно распределяя вычислительные ресурсы и обеспечивая параллельную обработку данных.
+
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Hadoop/IMAGE/YARN.webp" alt="YARN">
+
 
 ## Основные функции YARN
 
@@ -284,6 +293,9 @@ YARN состоит из трёх основных компонентов:
 # Apache Hadoop MapReduce
 
 **MapReduce** — это программная модель и основной механизм обработки данных в экосистеме Hadoop. Она предназначена для обработки и генерации больших объёмов данных параллельно в распределённой вычислительной среде.
+
+<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Hadoop/IMAGE/MapReduce0.png" alt="MapReduce">
+
 
 ---
 
