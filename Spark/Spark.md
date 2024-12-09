@@ -52,10 +52,6 @@ RDD состоит из набора данных, которые могут б�
 
 ## Основные компоненты архитектуры
 
-<image src="https://github.com/NikGerasimovich/Data-engineering/blob/main/Spark/IMAGE/spark%20components.png" alt="arch">
-" alt="component">
-
-
 ### DRIVER
 Исполнитель программы:
 - Исполняет код программы
